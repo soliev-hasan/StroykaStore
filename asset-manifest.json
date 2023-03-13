@@ -1,14 +1,12 @@
 {
   "files": {
     "main.css": "/Stroykashop/static/css/main.8e64b809.chunk.css",
-    "main.js": "/Stroykashop/static/js/main.a9ee788d.chunk.js",
-    "main.js.map": "/Stroykashop/static/js/main.a9ee788d.chunk.js.map",
-    "runtime-main.js": "/Stroykashop/static/js/runtime-main.de703f2b.js",
-    "runtime-main.js.map": "/Stroykashop/static/js/runtime-main.de703f2b.js.map",
+    "main.js": "/Stroykashop/static/js/main.a574ae72.chunk.js",
+    "main.js.map": "/Stroykashop/static/js/main.a574ae72.chunk.js.map",
+    "runtime-main.js": "/Stroykashop/static/js/runtime-main.5fec1593.js",
+    "runtime-main.js.map": "/Stroykashop/static/js/runtime-main.5fec1593.js.map",
     "static/js/2.b21398e2.chunk.js": "/Stroykashop/static/js/2.b21398e2.chunk.js",
     "static/js/2.b21398e2.chunk.js.map": "/Stroykashop/static/js/2.b21398e2.chunk.js.map",
-    "static/js/3.196d2d87.chunk.js": "/Stroykashop/static/js/3.196d2d87.chunk.js",
-    "static/js/3.196d2d87.chunk.js.map": "/Stroykashop/static/js/3.196d2d87.chunk.js.map",
     "index.html": "/Stroykashop/index.html",
     "static/css/main.8e64b809.chunk.css.map": "/Stroykashop/static/css/main.8e64b809.chunk.css.map",
     "static/js/2.b21398e2.chunk.js.LICENSE.txt": "/Stroykashop/static/js/2.b21398e2.chunk.js.LICENSE.txt",
@@ -71,9 +69,9 @@
     "static/media/pngwing 1.7dd3d4be.png": "/Stroykashop/static/media/pngwing 1.7dd3d4be.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.de703f2b.js",
+    "static/js/runtime-main.5fec1593.js",
     "static/js/2.b21398e2.chunk.js",
     "static/css/main.8e64b809.chunk.css",
-    "static/js/main.a9ee788d.chunk.js"
+    "static/js/main.a574ae72.chunk.js"
   ]
 }
