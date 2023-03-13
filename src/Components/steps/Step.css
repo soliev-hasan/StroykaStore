@@ -1,0 +1,11 @@
+.section-steps{
+  padding: 0px 92px;
+}
+.step-row {
+    display: flex;
+    gap: 16px;
+}
+.step {
+    margin-top: 33px;
+
+}

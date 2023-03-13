@@ -1,0 +1,13 @@
+.img-map{
+    padding: 0px 0px 80px 110px;
+}
+.text-contacts{
+    padding: 0px 0px 0px 110px;
+}
+.text-contacts-row{
+    display: flex;
+    gap: 40px;
+}
+.text-contact{
+    width: 500px;
+}

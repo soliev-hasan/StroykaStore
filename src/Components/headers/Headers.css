@@ -1,0 +1,60 @@
+.headers{
+    background-image: url(img/Frame\ 4175\ 1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 232px;
+    margin: 40px 40px 0px 40px;
+    padding: 40px 90px;
+}
+.headers-delivery{
+    background-image: url(img/Group\ 11\ 1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 312px;
+    margin: 40px 40px 0px 40px;
+    padding: 40px 90px;
+}
+.headers-return{
+    background-image: url(img/image\ 97.png);
+    background-color: rgb(238, 237, 237);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 40px 40px 0px 40px;
+    padding: 40px 90px;
+}
+.headers-document{
+    margin: 0px 0px 0px 40px;
+    padding: 40px 90px; 
+    
+
+}
+.headers-cart{
+    background-image: url(img/Frame\ 4417\ 1.png);
+    background-color: rgb(238, 237, 237);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 40px 40px 0px 40px;
+    padding: 40px 90px;
+}
+.headers-catalog{
+    background-image: url(img/Frame\ 4380\ 1.png);
+    background-color: rgb(238, 237, 237);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 40px 40px 0px 40px;
+    padding: 40px 90px;
+
+}
+.headers-order{
+    background-image: url(img/Frame\ 4416\ 1.png);
+    background-color: rgb(238, 237, 237);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 40px 40px 0px 40px;
+    padding: 40px 90px;
+
+}
+.headers a{
+    text-decoration: none;
+    color: black;
+}

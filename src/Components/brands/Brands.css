@@ -1,0 +1,19 @@
+.brands {
+    padding: 0px 89px;
+}
+
+.brands-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 16px;
+}
+
+.brands-card img {
+    border: 1px solid #E8E9EA;
+    width: 179.6px;
+    
+}
+.brands-card img:hover{
+    border: 1px solid #696d71;
+}

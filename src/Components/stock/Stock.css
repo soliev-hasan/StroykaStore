@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+.stock {
+    padding:0px 92px;
+}
+.stock-div{
+    margin-top: 80px;
+}
+
+.text-stock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-stock button {
+    border: 1px solid #D1D1D3;
+    width: 160px;
+    height: 48px;
+    color: #3a4151;
+}
+
+.cards-stock {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 11px;
+}
+.card-stock img{
+    width: 261px;
+    height: 208px;
+}
+.card-stock {
+    display: flex;
+    /* width: 570px; */
+    border: 1px solid #E8E9EA;
+    position: relative;
+}
+
+.card-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 278px;
+    padding: 16px;
+    height: 100px;
+}
+.second-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-left: 1px solid #E8E9EA;
+    
+}
+
+.card-stock span {
+    position: absolute;
+    left: 0;
+    border: 2px solid #FBE303;
+    padding: 4px 8px;
+    margin: 16px 16px;
+    background: white;
+}
+
+.button-card-stock {
+    width: 262px;
+    margin-top: 16px;  
+}
+
+s {
+    color: #8B8D92;
+    margin-left: 8px;
+}
+button:hover{
+    background: #2F323A;
+    color: white;
+}
+.count-stock{
+    position: absolute;
+    bottom: 17px !important;
+    left: 50% !important;
+}
+.count-stock input{
+    width: 159px;
+}

@@ -1,0 +1,70 @@
+.popular-section {
+    padding: 0px 92px;
+}
+
+.popular-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 16px;
+    margin-bottom: 80px;
+}
+
+.popular-card {
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 277px;
+    height: 416px;
+    border: 1px solid #E8E9EA;
+}
+
+.popular-card-text {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border-top: 1px solid #E8E9EA;
+    height: 112px;
+    width: 246px;
+
+}
+.button-popular{
+    width: 226px;
+}
+.popular-card img {
+    width: 100%;
+}
+
+.text-card {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+
+}
+.counter-hide{
+    opacity: 0;
+    z-index: -1;
+}
+.counter{
+   transition: 300ms;
+    left: 25px;
+    display: flex;
+    position: absolute;
+    bottom: 10px;
+}
+.counter-show{
+    opacity: 100 !important;
+    z-index: 3;
+}
+.btn-counter{
+   width: 48px;
+   height: 48px;
+   border: 1px solid #D1D1D3;
+}
+.counter-input{
+    margin: 0;
+    width: 123px;
+    height: 42px;
+    text-align: center;
+}

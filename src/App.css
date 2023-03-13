@@ -1,0 +1,17 @@
+.row{
+    
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 45px 45px;
+}
+.full {
+    border: 1px solid #cacbcc;
+    width: 120px;
+    height: 100px;
+    text-align: center;
+    align-self: flex-start;
+}
+.full p, h3 {
+    margin: 0;
+}

@@ -1,0 +1,33 @@
+.brands-filter{
+    padding: 80px 84px;
+    font-size: 16px;
+
+}
+.brands-alphabet span{
+    padding: 4px 12px;
+    border: 1px solid #D1D1D3;
+    margin-left: 8px;
+
+}
+.rus-alphabet{
+    margin-top: 12px;
+}
+.active{
+    background: #FBE303;
+}
+.brands-row{
+    display: flex;
+    margin-top: 28px;
+  
+}
+.brands-name ul{
+    list-style: none;
+    margin-left: 40px;
+    width: 160px;
+}
+.brands-name li:hover{
+    cursor: pointer;
+}
+.brands-name li:hover::before{
+    content: "->";
+}

@@ -1,0 +1,66 @@
+.categories {
+    padding: 80px 91px;
+
+}
+
+.categories-cards {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+
+}
+
+.categories-card {
+    width: 180px;
+    height: 184px;
+    background: #F6F6F6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #2F323A;
+}
+
+.categories-card:hover {
+    background: #FCEC41;
+}
+
+.popular-section {
+    padding: 40px 0px;
+}
+
+.popular-cards {
+    display: flex;
+    gap: 16px;
+    margin-top: 16px;
+}
+
+.popular-card {
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 256px;
+    border: 1px solid #E8E9EA;
+    position: relative;
+}
+
+.popular-card-text {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border-top: 1px solid #E8E9EA;
+}
+
+.button-popular {
+    width: 226px;
+}
+
+.popular-card img {
+    width: 100%;
+}
+
+.text {
+    height: 85px;
+    width: 100%;
+}

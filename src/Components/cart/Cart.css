@@ -1,0 +1,91 @@
+.cart {
+    display: flex;
+    padding: 80px 92px;
+}
+
+.cart-card {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-left: 16px;
+    padding: 16px;
+}
+
+.cart-text {
+    width: 498px;
+}
+
+button {
+    border: 1px solid #D1D1D3;
+    color: black;
+    background: #FFFFFF;
+}
+
+.plus {
+    width: 38px;
+    height: 44px;
+    font-size: 25px;
+}
+
+.btn-cart {
+    display: flex;
+    align-content: flex-end;
+    margin-top: 16px;
+
+}
+
+.coun {
+    width: 156px;
+    height: 38px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.remove {
+    padding: 12px 24px;
+    width: 222px;
+    height: 44px;
+    margin-left: 32px;
+    font-size: 18px;
+}
+
+.itog {
+    border: 1px solid #F6F6F6;
+    width: 278px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.itog button {
+    width: 280px;
+    align-self: center;
+
+}
+
+.itog div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-order {
+    display: flex;
+}
+
+.cards-order {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.date-order {
+    display: flex;
+    gap: 57px;
+    border-left: 1px #d6d5d5 solid;
+    padding: 16px;
+}
+.success {
+    left: 33%;
+    text-align: center;
+}

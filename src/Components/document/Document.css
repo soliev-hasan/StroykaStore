@@ -1,0 +1,19 @@
+.document-img {
+    height: 208px;
+    overflow: hidden;
+}
+
+.document-text {
+    border: 1px solid #E8E9EA;
+    width: 376px;
+    box-sizing: border-box;
+    padding: 16px;
+}
+.document-button{
+    width: 344px;
+}
+.documents{
+    padding: 40px 120px;
+    display: flex;
+    gap: 16px;
+}

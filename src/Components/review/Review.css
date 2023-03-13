@@ -1,0 +1,95 @@
+.review-section {
+    background: #F6F6F6;
+    margin-top: 80px;
+    padding: 84px 0px 80px 140px;
+    position: relative;
+    overflow: hidden;
+    height: 600px;
+    
+}
+.review-column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.review-column input{
+    width: 190px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.review-column textarea {
+    width: 430px;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    
+}
+select {
+    width: 240px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.review-add {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.review-add button {
+    width: 200px;
+    border: none;
+    background-color: #3a4151;
+    border-radius: 10px;
+}
+
+.button-review {
+    margin-right: 140px;
+}
+
+.text-review {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button-review button {
+    border: 1px solid #D1D1D3;
+    padding: 19px;
+    color: #3a4151;
+    margin-left: 10px;
+}
+.review-cards{
+    gap: 10px;
+    margin-top: 20px;
+    display: flex;
+    position: absolute;
+    
+}
+.review-img-row{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.review-card {
+    background: #FFFFFF;
+    border: 1px solid #E8E9EA;
+    width: 300px;
+    padding: 24px;
+    
+}
+
+.user{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-review{
+    margin-top: 12px;
+}
+.prev-slide{
+    transform: translateX(-230px);
+    transition: 1s;
+}

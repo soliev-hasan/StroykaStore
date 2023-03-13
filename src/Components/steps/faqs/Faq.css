@@ -1,0 +1,37 @@
+.faqs {
+    margin: 80px 140px;
+    border: 1px solid #D1D1D3;
+    padding: 80px 150px;
+}
+
+.faq {
+    width: 768px;
+    height: 58px;
+    background: #F6F6F6;
+    padding: 16px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 20px;
+    overflow: hidden;
+    transition: 400ms;
+    
+}
+.faq h5{
+    font-weight: lighter;
+    font-size: 18px;
+}
+.faq-between{
+    display: flex;
+    justify-content: space-between;
+}
+.faq:hover{
+    height: 260px !important;
+}
+.faq .icon{
+    transition: 400ms;
+    align-self: flex-start;
+}
+.faq:hover .icon{
+    transform: rotate(-180deg);
+}

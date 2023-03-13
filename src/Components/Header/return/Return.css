@@ -1,0 +1,17 @@
+.return-section{
+    padding: 80px 140px;
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+.return-row h1{
+    width: 376px;
+}
+.return-row p{
+    width: 768px;
+}
+
+.return-row{
+    display: flex;
+    gap: 16px;
+}

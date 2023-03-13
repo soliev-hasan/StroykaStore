@@ -1,0 +1,12 @@
+.brands-tag{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 80px 140px;
+    gap: 8px;
+}
+.brands-tag span{
+    border: 1px solid #D1D1D3;
+    padding: 8px 12px;
+    display: block;
+    
+}
